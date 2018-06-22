@@ -1,0 +1,12 @@
+{
+  "name": "convertmoney",
+  "version": "1.0.0",
+  "description": "Converts QIF files from Money to QFX",
+  "main": "convert.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
